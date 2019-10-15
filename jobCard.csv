@@ -1,0 +1,13 @@
+job,jobGroup,health,stress,position,drinkP,drinkN,uid
+CEO,executive,30,25,0,null,null,250873550591
+CTO,executive,28,28,0,null,null,457870579281
+CIO,executive,30,26,0,null,null,511114422934
+sw,student,30,30,0,null,null,457670087159
+hw,student,30,30,0,null,null,1034495797700
+design,student,28,30,0,null,null,939740516512
+Industrial?,professor,30,25,0,null,null,594585797032
+Academic,professor,27,30,0,null,null,701343800493
+studentManage,professor,30,24,0,null,null,594621273694
+front,developer,25,28,0,null,null,319451481381
+back,developer,23,28,0,null,null,661847447099
+fullStack,developer,26,30,0,null,null,936636338297
